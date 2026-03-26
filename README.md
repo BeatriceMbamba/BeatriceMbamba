@@ -1,6 +1,6 @@
 - 👋 Hi, I am Beatrice Mbamba
-- I am a Medical Microbiologist interested in the intersection of technology and healthcare. I have experence in conducting research in microbiology as well as laboratory tests. I am enthusiastic about Bioinformatics, Machine Learning and their applications in health
-- I am currently learning more on Machine Learning Methods, Data Manipulation and Machine Learning algorithms to develop AI projects.
+- I am a Medical Microbiologist and upcoming Bioinformatician interested in the intersection of technology and healthcare. I have experence in conducting research in microbiology and I am enthusiastic about using genomic data through Bioinformatics, and its applications in health.
+
   
 
 <!---
